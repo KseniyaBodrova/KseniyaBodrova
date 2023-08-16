@@ -1,4 +1,4 @@
-![Header]
+![Header](https://github.com/KseniyaBodrova/KseniyaBodrova/blob/main/QA%20for%20github.png)
 ## I'm a QA Engineer. 
 ## My CV
 [Link to my CV]
