@@ -1,7 +1,7 @@
 ![Header](https://github.com/KseniyaBodrova/KseniyaBodrova/blob/main/QA%20for%20Github.png)
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/14Z3T9Xr2F6jUY3dWmecsLleNzkqCw2lt/view?usp=drive_link)
+[Link to my CV](https://drive.google.com/file/d/1Cc29u6eWZQZHV1CUHhAuAOO7txzm46ZS/view?usp=drive_link)
 
 
 ### Language and Tools
